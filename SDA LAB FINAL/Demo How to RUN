@@ -1,0 +1,54 @@
+# Analytics Service Program
+
+## Description
+This is a Java-based program that simulates an Analytics Service. It includes features like event logging, report generation, and payment processing.
+
+---
+
+## How to Run
+
+1. **Clone or Download the Repository**:
+   - Download the `JAVA_CODE` folder to your local machine.
+
+2. **Set Up Your Environment**:
+   - Ensure you have Java Development Kit (JDK) installed (version 8 or higher).
+
+3. **Compile the Code**:
+   - Open a terminal or command prompt.
+   - Navigate to the `JAVA_CODE` folder:
+     ```bash
+     cd path/to/JAVA_CODE
+     ```
+   - Compile the files:
+     ```bash
+     javac *.java
+     ```
+
+4. **Run the Program**:
+   - Execute the `Main` file:
+     ```bash
+     java Main
+     ```
+
+---
+
+## Features
+- Log analytics events.
+- Generate reports for specified time periods.
+- Process payments using a mock payment gateway.
+
+---
+
+## Requirements
+- JDK 8 or higher
+- A terminal or IDE to compile and run the Java files (e.g., IntelliJ IDEA, Eclipse, or VS Code).
+
+---
+
+## Example
+After running the program, you can:
+- Log events like user actions.
+- Generate and export reports in different formats.
+- Process and refund payments.
+
+Enjoy exploring the Analytics Service program!
